@@ -112,5 +112,27 @@
     "commitName": "fix: add command 'git commit --amend --no-edit' to save lasts changes about commits and tests executation in .json files",
     "commitTimestamp": 1760458214260,
     "testId": 6
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1761190412588,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1761190427658,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "83d7dda05221f016cd1868d74248b3d3986a1cba",
+    "commitName": "primero",
+    "commitTimestamp": 1761190438795,
+    "testId": 7
   }
 ]
