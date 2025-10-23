@@ -133,11 +133,30 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "262367eaebeae0248614c9d1428b811f6c1726f9",
     "author": "adrian",
     "commit": {
       "date": "2025-10-23T03:33:57.000Z",
       "message": "primero",
+      "url": "https://github.com/AdrianRojas4414/baseprojectof/commit/262367eaebeae0248614c9d1428b811f6c1726f9"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 16,
+      "deletions": 0,
+      "date": "2025-10-23"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "adrian",
+    "commit": {
+      "date": "2025-10-23T03:34:20.000Z",
+      "message": "segundo",
       "url": "https://github.com/AdrianRojas4414/baseprojectof/commit/HEAD"
     },
     "stats": {
