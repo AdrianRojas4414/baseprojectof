@@ -156,5 +156,35 @@
     "commitName": "segundo",
     "commitTimestamp": 1761190461463,
     "testId": 8
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1761190545453,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1761190547922,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1761190550779,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "a49b2f1f863a924441ca985f0f225048ec2b7e19",
+    "commitName": "tercero",
+    "commitTimestamp": 1761190560854,
+    "testId": 9
   }
 ]
