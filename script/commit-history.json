@@ -209,18 +209,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f48db35b3b26d9734fd39467e8b639be8f9ed56a",
     "author": "adrian",
     "commit": {
       "date": "2025-10-23T03:38:41.000Z",
       "message": "quinto",
-      "url": "https://github.com/AdrianRojas4414/baseprojectof/commit/HEAD"
+      "url": "https://github.com/AdrianRojas4414/baseprojectof/commit/f48db35b3b26d9734fd39467e8b639be8f9ed56a"
     },
     "stats": {
       "total": 8,
       "additions": 8,
       "deletions": 0,
       "date": "2025-10-23"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "adrian",
+    "commit": {
+      "date": "2025-11-27T00:48:47.000Z",
+      "message": "6 pruebas",
+      "url": "https://github.com/AdrianRojas4414/baseprojectof/commit/HEAD"
+    },
+    "stats": {
+      "total": 48,
+      "additions": 48,
+      "deletions": 0,
+      "date": "2025-11-27"
     },
     "coverage": 100,
     "test_count": 6,

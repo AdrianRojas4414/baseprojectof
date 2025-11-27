@@ -214,5 +214,59 @@
     "commitName": "quinto",
     "commitTimestamp": 1761190722469,
     "testId": 11
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1764204470652,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1764204479265,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1764204481669,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1764204483793,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1764204486212,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1764204488271,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "3f329c36ead5fc38a2182ecd66f000bb35151a21",
+    "commitName": "6 pruebas",
+    "commitTimestamp": 1764204529847,
+    "testId": 12
   }
 ]
